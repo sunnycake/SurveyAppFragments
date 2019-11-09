@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SurveyAppFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="reset_button">Reset</string>
+    <string name="survey_question_text">Do you like Winter?</string>
+    <string name="yes_count_text">0</string>
+    <string name="no_count_text">0</string>
+    <string name="results_text_view">See Results</string>
+    <string name="new_question_editText">Enter your new question here</string>
+    <string name="option_one">Option One</string>
+    <string name="option_two">Option Two</string>
+    <string name="save_new_question">Save</string>
+    <string name="enter_new_question">Enter new question</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
